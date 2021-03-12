@@ -1,0 +1,4 @@
+metric,lower_limit,upper_limit
+median,42.5,55.5
+25th_percentile,23.5,32.75
+75th_percentile,57.5,60.0
